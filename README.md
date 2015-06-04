@@ -1,7 +1,7 @@
 ## WordPress Piwik plugin
 
 ## Description
-This WordPress plugin adds the Piwik tracking code to blogs registered on the ArsTropica Piwik Manager Framework. 
+This WordPress plugin adds the Piwik tracking code to blogs registered on the Piwik Manager Framework or standalone blogs. 
 
 - Contributors: Arsropica <info@arstropica.com> 
 - Tags: WordPress Piwik Plugin, Piwik Analytics
