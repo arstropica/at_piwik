@@ -205,7 +205,7 @@
 
         <div class="wrap">
 
-            <h2><?php _('ArsTropica Piwik Plugin Settings', 'at-piwik'); ?></h2>
+            <h2><?php echo __('ArsTropica Piwik Plugin Settings', 'at-piwik'); ?></h2>
 
             <br />
 
